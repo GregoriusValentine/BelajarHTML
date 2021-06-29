@@ -1,0 +1,24 @@
+/* mengubah jenis huruf */
+/* sans-serif adalah huruf yang tidak memiliki kaki */
+/* sedangkan serif adalah huruf yang memiliki kaki */
+/* font-weight mengatur ketebalan huruf  */
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-variant: small-caps;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+/* mengubah ukuran huruf */
+h2 {
+    font-size: 50px;
+}
+h3 {
+    font-size: 50px;
+}
+/* membuat jarak/ spasi */
+p {
+    font-weight: bold;
+    line-height: 30px;
+}

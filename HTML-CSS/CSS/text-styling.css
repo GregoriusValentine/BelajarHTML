@@ -1,0 +1,25 @@
+h1 {
+    color:khaki;
+    text-decoration: underline;
+}
+p {
+    text-align:justify;
+    text-indent: 20px;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    line-height: 50px;
+}
+h2 {
+    text-decoration: line-through;
+}
+h3 {
+    text-transform: uppercase;
+}
+/* text-indent untuk mengatur jarak paragraf */
+/* color untuk mengubah warna huruf */
+/* text-align untuk mengatur format pragraf */
+/* text decoration untuk mengatur dekorasi pada text  */
+/* text- transform utuk mengubah jenis huruf besar, kecil, kapital */
+/* leter-spacing untuk mengatur spasi antar huruf */
+/* word-sapacing untuk mengatur spasi antar kata */
+/* line-height untuk mengatur spasi antar baris kalimat */

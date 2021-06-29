@@ -1,0 +1,33 @@
+h1 {
+    text-transform: capitalize;
+    color: aqua;
+}
+h2 {
+    text-transform: uppercase;
+    color: brown;
+    text-align: center;
+}
+#p1 {
+    color: brown;
+}
+.p2 {
+    text-align: center;
+
+
+}
+.cetak-tebal{
+    color:blue;
+    font-weight: bold;
+}
+body {
+    
+    background-color: #999999;
+}
+ul li a {
+    color: black;
+    text-decoration: none;
+}
+ol li a {
+    color: orange;
+    text-decoration: none;
+}
