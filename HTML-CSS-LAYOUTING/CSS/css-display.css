@@ -1,0 +1,69 @@
+.header h1{
+    text-align: center;
+    color: blue;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+body{
+    background-color: wheat;
+}
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 15px;
+    word-spacing: 2px;
+    text-align: justify;
+}
+.navigasi ul li a{
+    text-decoration: none;
+}
+.main h2 {
+    text-align: center;
+    color: blue;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main span{
+    color: blue;
+}
+.gambar{
+    width: 400px;
+    height: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.penutup p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/* display : inline, inline-block, block, none  
+    inline -> Elemen HTML yang secara default tidak menembahkan baris baru ketika dibuat
+           -> Lebar dan tinggi elemennya sebesar konten yang ada di dalamnya 
+           -> kita tidak dapat mengatur tinggi dan lebar dari elemen inline 
+           -> Elemen Inline -> b, strong, i, em, a, span, sub, sup, button, input, lanel, select, textarea.
+    inline-block -> Tidak ada elemen yang secara default memiliki properti 
+                    display: inline-block;
+                 -> Kita harus ubah sacara manual properti tersebut  
+                 -> Prilaku dasarnya sama dengan  elemen inline
+                 -> Perbedaannya, elemen inline-block daoat kita atur tinggi dan lebarnya
+    block -> elaman HTML yang sedara default menambahkan baris baru ketika dibuat 
+          -> Jika tidak diatur lebar-nya, maka lebar default dari elemen block akan memenuhi lebar dari browser / parent-nya 
+          -> Kita dapat mengatur tinggi dan lebar dari elemen block
+          -> Di dalam elemen block, kita dapat menyimpan tag dengan elemen inline, inline-block, atau bahkan elemen block lagi 
+          -> Elemen block -> h1-h6, p, ol, ul, li, from, hr, div,.....
+    none -> digunakan untuk menghilangkan sebuah elemen 
+
+*/
