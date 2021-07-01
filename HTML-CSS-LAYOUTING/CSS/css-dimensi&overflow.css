@@ -1,0 +1,39 @@
+.pertama{
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+}
+.satu{
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+}
+.dua{
+    width: 100%;
+    background-color: yellow;
+}
+.paragraf{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    overflow: auto;
+}
+.paragraf2{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    overflow: hidden;
+}
+.paragraf3{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    overflow: scroll;
+}
+.paragraf4{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    overflow: visible;
+}
+/* dimensi ada dua yaitu width dan height */

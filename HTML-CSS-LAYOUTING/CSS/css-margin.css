@@ -1,0 +1,86 @@
+.satu{
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 150px;
+    margin-right: 50px;
+}
+.dua{
+    width: 100px;
+    height: 100px;
+    background: lightblue;
+}
+.tiga{
+    width: 50px;
+    height: 50px;
+    background-color: violet;
+}
+.dua2{
+    width: 100px;
+    height: 100px;
+    background: lightblue;
+    margin-top: 50px;
+
+}
+p{
+    text-indent: 10px;
+}
+.satu3{
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+    margin-right: 30px;
+}
+.dua3{
+    width: 100px;
+    height: 100px;
+    background: lightblue;
+    margin-left: 20px;
+}
+.tiga3{
+    width: 50px;
+    height: 50px;
+    background-color: violet;
+}
+.display div{
+    display: inline-block;
+}
+.satu4{
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+    margin-bottom: 50px;
+}
+.dua4{
+    width: 100px;
+    height: 100px;
+    background: lightblue;
+    margin-top: -70px;
+}
+.tiga4{
+    width: 50px;
+    height: 50px;
+    background-color: violet;
+    margin-left: -20px;
+}
+.satu5{
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+}
+.dua5{
+    width: 100px;
+    height: 100px;
+    background: lightblue;
+}
+.tiga5{
+    width: 50px;
+    height: 50px;
+    background-color: violet;
+}
+.margin-auto div{
+    margin-left:auto;
+    margin-right: auto;
+}

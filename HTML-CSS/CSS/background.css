@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    background-image: url(error.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+h1, p {
+    color:yellow;
+    font-weight: bold;
+}
