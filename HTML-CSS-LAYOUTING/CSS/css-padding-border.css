@@ -1,0 +1,70 @@
+body{
+    margin: 0%;
+}
+div{
+    margin:20px auto ;
+    background-color: coral;
+    overflow: auto;
+    text-align: justify;
+    text-indent: 20px;
+}
+.satu{
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    padding:50px;
+}   
+.dua{
+    width: 250px;
+    height: 300px;
+    padding-left:50px;
+}
+.tiga {
+    width: 300px;
+    height: 250px;
+    padding-top:50px;
+}
+.empat{
+    width: 300px;
+    height: 250px;
+    padding-bottom:50px;
+}
+.lima{
+    width: 250px;
+    height: 300px;
+    padding-right:50px;
+}
+.enam{
+    width: 250px;
+    height: 250px;
+    padding: 20px 30px 30px 20px;
+    /* dibaca searah jarum jam, atas 20px, kanan 30px, bawah 20px, kiri 30px.  */
+}
+h3{
+    text-align: center;
+}
+.satu1{
+    width: 296px;
+    height: 296px;
+    border: 2px solid blue;
+}
+.dua2{
+    width: 296px;
+    height: 296px;
+    border: 2px dashed red;
+}
+.tiga3{
+    width: 296px;
+    height: 296px;
+    border-bottom: 2px solid blue;
+    border-top: 2px dashed red;
+    border-left: 2px solid black;
+    border-right: 2px dashed green;
+}
+.empat4{
+    width: 600px;
+    height: 600px;
+    padding: 10px;
+    border: 10px solid red;
+    box-sizing: border-box;
+}
