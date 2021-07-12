@@ -1,0 +1,48 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.container {
+
+    width: 800px;
+    border: 1px solid black;
+    margin: auto;
+    padding: 10px;
+
+}
+
+.satu {
+
+    width: 200px;
+    height: 500px;
+    background-color: salmon;
+    float: right;
+
+}
+
+.dua {
+
+    width: 400px;
+    height: 500px;
+    background-color: lightblue;
+    float: right;
+
+}
+
+.tiga {
+
+    width: 200px;
+    height: 500px;
+    background-color: blueviolet;
+    float: right;
+
+}
+
+.clear {
+
+    clear: right;
+
+}
